@@ -1,5 +1,9 @@
 # ange007/omnipay-interkassa
 
+## [1.0.0] - 2018-07-18
+
+- Porting for omnipay v3.
+
 ## [0.1.1] - 2017-03-19
 
 - Code optimization.
